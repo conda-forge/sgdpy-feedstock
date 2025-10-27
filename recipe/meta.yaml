@@ -22,6 +22,7 @@ requirements:
     - numpy >=1.16
     - pip
     - python
+    - setuptools
   run:
     - numpy >=1.16
     - python
